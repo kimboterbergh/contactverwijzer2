@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Boterbergh;Kim;;Dr.;
+FN:Dr. Kim Boterbergh
+TITLE:Algemene abdominale en schildklierchirurgie
+ORG:Sint-Elisabeth Ziekenhuis Zottegem
+EMAIL;TYPE=INTERNET:kim.boterbergh@sezz.be
+TEL;TYPE=CELL;TYPE=VOICE:+32499107897
+TEL;TYPE=WORK;TYPE=VOICE;LABEL="Zottegem - rechtstreeks":093648361
+TEL;TYPE=WORK;TYPE=VOICE;LABEL="Secretariaat Heelkunde Zottegem":093648454
+ADR;TYPE=WORK:;;Godveerdegemstraat 69;Zottegem;;9620;Belgium
+ADR;TYPE=HOME:;;Kluisdreef 71;Aalst;;9300;Belgium
+END:VCARD
