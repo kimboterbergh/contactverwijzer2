@@ -2,12 +2,18 @@ BEGIN:VCARD
 VERSION:3.0
 N:Boterbergh;Kim;;Dr.;
 FN:Dr. Kim Boterbergh
-TITLE:Algemene, abdominale - en schildklierchirurgie.
+TITLE:Algemene, abdominale en schildklierchirurgie – robotchirurgie
 ORG:Sint-Elisabeth Ziekenhuis Zottegem
-EMAIL;TYPE=INTERNET:kim.boterbergh@sezz.be
+
 TEL;TYPE=CELL;TYPE=VOICE:+32499107897
-TEL;TYPE=WORK;TYPE=VOICE;LABEL="Zottegem - rechtstreeks":093648361
-TEL;TYPE=WORK;TYPE=VOICE;LABEL="Secretariaat Heelkunde Zottegem":093648454
+TEL;TYPE=WORK;TYPE=VOICE:+3293648361
+TEL;TYPE=WORK;TYPE=VOICE:+3293648454
+
+EMAIL;TYPE=INTERNET:kim.boterbergh@sezz.be
+
 ADR;TYPE=WORK:;;Godveerdegemstraat 69;Zottegem;;9620;Belgium
 ADR;TYPE=HOME:;;Kluisdreef 71;Aalst;;9300;Belgium
+
+NOTE:Rechtstreeks toestel Zottegem: 09 364 83 61 | Secretariaat Heelkunde Zottegem: 09 364 84 54
+
 END:VCARD
